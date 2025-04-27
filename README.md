@@ -1,7 +1,3 @@
-
-
-
-
 # Leetcode-Matrix-App
 
 
